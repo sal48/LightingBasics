@@ -77,3 +77,15 @@ Update Mode: updateDependencies
 The following packages were updated:
   com.unity.ide.vscode from version 1.2.0 to 1.2.3
   com.unity.xr.legacyinputhelpers from version 2.1.4 to 2.1.7
+
+=== Mon Aug 28 17:31:00 2023
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were added:
+  com.unity.ide.visualstudio@2.0.15
+The following packages were updated:
+  com.unity.ide.rider from version 1.1.4 to 1.2.1
+  com.unity.ide.vscode from version 1.2.3 to 1.2.5
+  com.unity.xr.legacyinputhelpers from version 2.1.7 to 2.1.9
