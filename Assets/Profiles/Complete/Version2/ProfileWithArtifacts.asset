@@ -1451,7 +1451,7 @@ MonoBehaviour:
     value: 2
   thickness:
     overrideState: 1
-    value: 8
+    value: 32
   maximumMarchDistance:
     overrideState: 1
     value: 100
